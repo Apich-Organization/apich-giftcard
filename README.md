@@ -1,2 +1,2 @@
 # apich-giftcard
-Some public giftcards made for everyone by Apich..
+Some public giftcards made for everyone by Apich.
